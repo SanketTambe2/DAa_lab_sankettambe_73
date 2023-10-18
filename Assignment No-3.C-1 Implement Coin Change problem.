@@ -28,7 +28,7 @@ int main()
     int i, j;
     int coins[] = { 1, 2, 3 };
     int n = sizeof(coins) / sizeof(coins[0]);
-    int sum = 5;
+    int sum = 4;
  
     cout << " " << count(coins, n, sum);
  
